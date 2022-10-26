@@ -19,8 +19,12 @@ def loading_model():
 
 cnn = loading_model()
 st.write("""
-# X-Ray Classification [Tuberculosis/Normal]
-by Jayes and Aunt
+# Jayes X-Ray Classification Model
+by Jayes and Team
+Jayeskumar M
+Jeevanantham V
+Marimuthu S
+Kiruthikraj V
 """)
 
 
