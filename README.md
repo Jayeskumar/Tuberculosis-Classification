@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jith4j/Tuberculosis-Classification/blob/main/logo/logo.gif" alt="banner">
-</p>
 
 # Project Title
 ## LUNG X-RAY IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK
