@@ -50,7 +50,7 @@ else:
     # predict
     preds = cnn.predict(pp_img)
     if preds >= 0.5:
-        out = ('I am {:.2%} percent confirmed that this is a Tuberculosis case. You may need to get counselling from the doctor'.format(
+        out = ('I am {:.2%} percent confirmed that this is a Tuberculosis case. You may need to get advice from the doctor'.format(
             preds[0][0]))
 
     else:
