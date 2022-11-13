@@ -94,7 +94,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 
 @st.cache(allow_output_mutation=True)
 def loading_model():
-     menu = ['Home', 'Contact']
+    menu = ['Home', 'Contact']
     choice = st.sidebar.selectbox("Menu", menu)
 
     
