@@ -12,11 +12,7 @@ from PIL import Image, ImageOps
 import numpy as np
 import time
 
-st.beta_set_page_config(
-page_title="Auto Vaidya",
-layout="centered",
-initial_sidebar_state="collapsed",
-)
+
 
 # Just making sure we are not bothered by File Encoding warnings
 st.set_option('deprecation.showfileUploaderEncoding', False)
