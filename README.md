@@ -2,11 +2,7 @@
 # Project Title
 ## LUNG X-RAY IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK
 
-<!-- Buttons -->
-![GitHub License](https://img.shields.io/github/license/jith4j/Tuberculosis-Classification)
-![GitHub number of Languages](https://img.shields.io/github/languages/count/jith4j/Tuberculosis-Classification)
-![GitHub top Language](https://img.shields.io/github/languages/top/jith4j/Tuberculosis-Classification?color=orange)
-[![Open In Colab: ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jith4j/Tuberculosis-Classification/blob/main/Tuber_Classification.ipynb)
+
 
 
 A CNN model that can classify X-Ray images as a <b>Tuberculosis case or a Normal case</b>.
@@ -43,22 +39,5 @@ In this century where everything is at our fingertips, why wait in a long queue 
 
 To use this project, first clone the repo on your device using the command below:
 
-```git init```
-
-```git clone https://github.com/jith4j/Tuberculosis-Classification.git```
 
 
-# Contribute
-
-This project is made only to classify if an X-ray is having Tuberculosis or not. As a next step, the model could be further developed to classify if an X-ray image is having any other disease also.
-
-
-# License
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
