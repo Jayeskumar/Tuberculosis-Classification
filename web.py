@@ -94,6 +94,10 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 
 @st.cache(allow_output_mutation=True)
 def loading_model():
+     menu = ['Home', 'Contact']
+    choice = st.sidebar.selectbox("Menu", menu)
+
+    
     fp = "./model/model.h5"
     model_loader = load_model(fp)
     return model_loader
