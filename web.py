@@ -6,11 +6,6 @@ import tensorflow as tf
 
 from tempfile import NamedTemporaryFile
 from tensorflow.keras.preprocessing import image
-st.beta_set_page_config(
-page_title="Detector",
-layout="centered",
-initial_sidebar_state="collapsed",
-)
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
