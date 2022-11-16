@@ -24,20 +24,6 @@ Click [here](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-da
 # Motivation
 In this century where everything is at our fingertips, why wait in a long queue to get your X-rays scanned by a radiologist? Especially to find out if you or your loved ones are affected by a serious disease like Tuberculosis? Not anymore, we’ve developed a system that brings radiologists to your fingertips!
 
-# Table of contents
-
-- Project Title
-- Dataset
-- Demo-Preview
-- Motivation
-- Table of contents
-- Installation
-- Contribute
-- License
-
-# Installation
-
-To use this project, first clone the repo on your device using the command below:
 
 
 
