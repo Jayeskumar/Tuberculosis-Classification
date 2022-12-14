@@ -105,12 +105,12 @@ def loading_model():
 
 cnn = loading_model()
 st.write("""
-# Jayes Tuberculosis X-Ray Classification Model
+# Cloud Based Web Application for TB Detection
 by Jayes and Team
 """)
 
 
-temp = st.file_uploader("Upload X-Ray Image")
+temp = st.file_uploader("Give Us a Snapshot of your Xray Image")
 #temp = temp.decode()
 
 buffer = temp
@@ -121,7 +121,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("Oops! that doesn't look like an image. Try again.")
+    st.text("This a Model for Public Use Built by Jayeskumar M, Marimuthu S, Jeevanatham V, Kiruthickraj R")
 
 else:
 
