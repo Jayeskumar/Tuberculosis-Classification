@@ -106,7 +106,7 @@ def loading_model():
 cnn = loading_model()
 st.write("""
 # Cloud Based Web Application for TB Detection
-by Saran and Team
+by Jayes and Team
 """)
 
 
@@ -121,7 +121,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("This a Model for Public Use Built by Saran, Karthikeyan, Jothikumaran, Karthick")
+    st.text("This a Model for Public Use Built by Jayeskumar M")
 
 else:
 
