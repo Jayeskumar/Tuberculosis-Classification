@@ -19,7 +19,7 @@ def loading_model():
 
 cnn = loading_model()
 st.write("""
-# Cloud Based Web Application Tuberculosis Detection Using CNN
+# Cloud Based Web Application Tuberculosis Detection Using CNN App
 Built by Jayes and Team
 """)
 
