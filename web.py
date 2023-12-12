@@ -25,7 +25,7 @@ Built by Jayes and Team
 
 
 temp = st.file_uploader("Please Provide the Snap Shot of your X-Ray Image")
-#temp = temp.decode()
+temp = temp.decode()
 
 buffer = temp
 temp_file = NamedTemporaryFile(delete=False)
