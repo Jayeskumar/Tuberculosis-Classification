@@ -7,7 +7,7 @@ import tensorflow as tf
 from tempfile import NamedTemporaryFile
 from tensorflow.keras.preprocessing import image
 
-st.set_option('deprecation.showfileUploaderEncoding', False)
+#st.set_option('deprecation.showfileUploaderEncoding', False)
 
 
 @st.cache(allow_output_mutation=True)
