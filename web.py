@@ -25,7 +25,7 @@ Built by Jayes and Team
 
 
 temp = st.file_uploader("Please Provide the Snap Shot of your X-Ray Image")
-temp = temp.decode()
+#temp = temp.decode()
 
 buffer = temp
 temp_file = NamedTemporaryFile(delete=False)
@@ -35,7 +35,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("This model is built for public use by Jayeskumar M, Jeevanatham V, Kruthickraj R, Marimuthu S")
+    st.write("This model is built for public use by Jayeskumar M, Jeevanatham V, Kruthickraj R, Marimuthu S")
 
 else:
 
