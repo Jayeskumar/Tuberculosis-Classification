@@ -35,7 +35,7 @@ if buffer:
 
 
 if buffer is None:
-    st.write("This model is built for public use by Jayeskumar M, Jeevanatham V, Kruthickraj R, Marimuthu S")
+    st.write("This model is built for public use by Jayeskumar M")
 
 else:
 
